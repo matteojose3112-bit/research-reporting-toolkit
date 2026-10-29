@@ -1,8 +1,8 @@
 # Research & Reporting Toolkit
 
-A practical toolkit for source-based research, competitor comparisons, and concise business summaries.
+A practical toolkit for source-based research, competitor comparisons, document summaries, and concise business reports.
 
-> **Status:** Usable service MVP with reusable templates, a source-backed research sample, and a Python utility for auditing research inputs.
+> **Status:** Usable service MVP with reusable templates, a source-backed CRM comparison, a Python input-audit utility, automated tests, and prepared portfolio exports.
 
 ## Start here
 
@@ -17,6 +17,8 @@ A practical toolkit for source-based research, competitor comparisons, and conci
 - [CRM evaluation framework](examples/research-brief/sample-crm-evaluation-brief.md) — reusable decision criteria, without claiming a vendor ranking.
 - [Free CRM options for a small team](examples/research-brief/free-crm-options-small-team.md) — limited comparison based on official vendor pages, with a [matching source log](examples/research-brief/free-crm-source-log.csv).
 
+A separate portfolio sample pack has been prepared with a polished PDF brief, an editable DOCX version, and an XLSX comparison workbook with a source-log sheet. These are demonstration deliverables based on public vendor documentation, not paid client work. Keep plan details current by revisiting the source pages before sharing the sample.
+
 ## Functional utility
 
 The [research input audit tool](tools/README.md) checks source-log columns, duplicate IDs, URL structure, comparison scores, and criterion-weight totals. It uses only Python's standard library. It does not browse sources or verify claims automatically.
@@ -30,7 +32,7 @@ python -m unittest discover -s tests -v
 
 ## Services and marketplace setup
 
-See [starter service packages](SERVICE_PACKAGES.md) for scope and intake requirements, and the [Fiverr/Upwork listing draft](GIG_LISTING_DRAFT.md) for title, description, suggested pricing, FAQ, and buyer requirements.
+See [starter service packages](SERVICE_PACKAGES.md) for scope and intake requirements, and the [Fiverr/Upwork listing draft](GIG_LISTING_DRAFT.md) for title, description, suggested pricing, FAQ, and buyer requirements. Listing copy and prices are drafts; the gigs are not published by this repository.
 
 ## Working principles
 
@@ -43,7 +45,7 @@ See [starter service packages](SERVICE_PACKAGES.md) for scope and intake require
 
 ## Current limitations
 
-The CRM comparison uses official vendor pages only, not independent tests or hands-on product trials. Product limits and prices can change, so reconfirm details before decisions. The comparison CSV is a starter template; complete and verify scores before using them for a decision. The audit tool checks input structure, not factual truth or source reliability.
+The CRM comparison uses official vendor pages only, not independent tests or hands-on product trials. Product limits and prices can change, so reconfirm details before decisions. The comparison worksheet is a starter evaluation aid; agree criteria and complete evidence-based scores before using it for a decision. The audit tool checks input structure, not factual truth or source reliability. A full document-summary portfolio sample and a final pre-publication source refresh remain planned.
 
 ## Quality checks
 
