@@ -28,16 +28,9 @@ python tools/audit_research_inputs.py --sources examples/research-brief/free-crm
 python -m unittest discover -s tests -v
 ```
 
-## Services this toolkit supports
+## Services and marketplace setup
 
-- Focused research briefs with traceable claims
-- Document and report summaries
-- Competitor or service comparisons
-- Source logs and evidence tracking
-- Executive summaries and action lists
-- Quality review before delivery
-
-See [starter service packages](SERVICE_PACKAGES.md) for proposed scope and intake requirements.
+See [starter service packages](SERVICE_PACKAGES.md) for scope and intake requirements, and the [Fiverr/Upwork listing draft](GIG_LISTING_DRAFT.md) for title, description, suggested pricing, FAQ, and buyer requirements.
 
 ## Working principles
 
