@@ -2,7 +2,7 @@
 
 A practical toolkit for source-based research, competitor comparisons, and concise business summaries.
 
-> **Status:** Usable MVP with reusable templates, a quality checklist, a framework example, and a source-backed CRM comparison demonstration.
+> **Status:** Usable service MVP with reusable templates, a source-backed research sample, and a Python utility for auditing research inputs.
 
 ## Start here
 
@@ -14,10 +14,21 @@ A practical toolkit for source-based research, competitor comparisons, and conci
 
 ## Portfolio examples
 
-- [CRM evaluation framework](examples/research-brief/sample-crm-evaluation-brief.md) — reusable decision criteria; no vendor ranking claimed.
+- [CRM evaluation framework](examples/research-brief/sample-crm-evaluation-brief.md) — reusable decision criteria, without claiming a vendor ranking.
 - [Free CRM options for a small team](examples/research-brief/free-crm-options-small-team.md) — limited comparison based on official vendor pages, with a [matching source log](examples/research-brief/free-crm-source-log.csv).
 
-## Deliverables this toolkit supports
+## Functional utility
+
+The [research input audit tool](tools/README.md) checks source-log columns, duplicate IDs, URL structure, comparison scores, and criterion-weight totals. It uses only Python's standard library. It does not browse sources or verify claims automatically.
+
+Run from the repository root:
+
+```bash
+python tools/audit_research_inputs.py --sources examples/research-brief/free-crm-source-log.csv
+python -m unittest discover -s tests -v
+```
+
+## Services this toolkit supports
 
 - Focused research briefs with traceable claims
 - Document and report summaries
@@ -25,6 +36,8 @@ A practical toolkit for source-based research, competitor comparisons, and conci
 - Source logs and evidence tracking
 - Executive summaries and action lists
 - Quality review before delivery
+
+See [starter service packages](SERVICE_PACKAGES.md) for proposed scope and intake requirements.
 
 ## Working principles
 
@@ -37,8 +50,8 @@ A practical toolkit for source-based research, competitor comparisons, and conci
 
 ## Current limitations
 
-The CRM comparison uses official vendor pages only, not independent tests or hands-on product trials. Product limits and prices can change, so the brief records its access date and advises reconfirming details. The CSV comparison worksheet is a starter template; complete and verify scores before using them for a decision. This repository is a deliverables toolkit, not automated research software.
+The CRM comparison uses official vendor pages only, not independent tests or hands-on product trials. Product limits and prices can change, so reconfirm details before decisions. The comparison CSV is a starter template; complete and verify scores before using them for a decision. The audit tool checks input structure, not factual truth or source reliability.
 
-## Next priority
+## Quality checks
 
-Create a polished comparison spreadsheet and a finished executive-summary sample, then package the deliverables for client-facing portfolio use.
+Automated tests run through GitHub Actions on pushes and pull requests. See the [test workflow](.github/workflows/test.yml).
