@@ -12,13 +12,19 @@
 - [x] Define starter service packages and intake requirements.
 - [x] Draft Fiverr/Upwork gig title, description, package pricing, FAQ, and buyer requirements.
 
-## Phase 2 — Client-ready outputs
-- [ ] Build an XLSX comparison workbook with formulas and evidence fields.
-- [ ] Create a polished executive summary and client-ready DOCX/PDF sample.
-- [ ] Add one complete document-summary sample.
-- [ ] Validate all source links and claims immediately before publishing the portfolio.
+## Phase 2 — Portfolio-ready deliverables
+- [x] Prepare a polished PDF research brief based on the source-backed CRM comparison.
+- [x] Prepare an editable DOCX version of the research brief.
+- [x] Prepare an XLSX comparison workbook with a source-log sheet.
+- [ ] Add a complete document-summary sample.
+- [ ] Recheck all source links, plan details, and claims immediately before publishing the portfolio.
 - [ ] Choose final introductory prices, revision limits, and delivery times on each marketplace.
-- [ ] Upload a clean portfolio preview and publish the listing.
+- [ ] Upload sample previews to Fiverr/Upwork and publish the listings.
+
+## Phase 3 — Improve the service
+- [ ] Add a repeatable document-summary workflow and example output.
+- [ ] Add optional spreadsheet scoring formulas with clear evidence fields and no default invented scores.
+- [ ] Add a concise client delivery note and reusable final QA checklist.
 
 ## Scope guardrails
 - Prioritize useful deliverables over unnecessary software.
