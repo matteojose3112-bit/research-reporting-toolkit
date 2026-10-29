@@ -1,15 +1,14 @@
 # Changelog
 
-All notable project changes will be recorded here.
+Notable project updates are recorded here.
 
-This project is in its initial setup phase. Dates and entries will be added when changes are made; planned work belongs in [ROADMAP.md](ROADMAP.md).
+## 0.2.0 — First usable toolkit MVP
+- Added reusable research brief and executive summary templates.
+- Added a CSV source log template for claim traceability.
+- Added a quality-review checklist.
+- Added a demonstration CRM evaluation brief with transparent scope and no invented vendor scores.
+- Updated the README and roadmap to reflect the actual project state.
 
-## Unreleased
-
-- Added the initial project README, goals, working principles, and planned deliverables.
-- Added a roadmap for building sample research and reporting artifacts.
-- Added a changelog to track future progress.
-
-## Versioning
-
-A numbered release will be created once the repository contains a coherent, usable set of sample deliverables. Until then, changes are tracked under **Unreleased**.
+## 0.1.0 — Foundation
+- Created project scope, working principles, initial README, and roadmap.
+- Documented planned deliverables and current limitations.
