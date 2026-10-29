@@ -2,16 +2,19 @@
 
 Notable project updates are recorded here.
 
+## 0.3.0 — Source-backed research sample
+- Added a CRM free-plan comparison based on official HubSpot and Zoho vendor pages.
+- Added a source log with access date, evidence notes, and limitations.
+- Included a clear scope statement and noted that no hands-on test was performed.
+- Updated README and roadmap.
+
 ## 0.2.1 — Comparison worksheet
 - Added a reusable CSV worksheet for comparing options against consistent criteria.
-- Updated the README and roadmap to reflect the new file.
 
 ## 0.2.0 — First usable toolkit MVP
-- Added reusable research brief and executive summary templates.
-- Added a CSV source log template for claim traceability.
-- Added a quality-review checklist.
-- Added a demonstration CRM evaluation brief with transparent scope and no invented vendor scores.
-- Updated project documentation.
+- Added research brief and executive summary templates.
+- Added a source log template and quality-review checklist.
+- Added a CRM evaluation framework demonstration.
 
 ## 0.1.0 — Foundation
-- Created project scope, working principles, initial README, and roadmap.
+- Created project scope, working principles, README, and roadmap.
