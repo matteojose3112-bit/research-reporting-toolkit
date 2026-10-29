@@ -2,7 +2,7 @@
 
 A practical toolkit for source-based research, competitor comparisons, and concise business summaries.
 
-> **Status:** First usable MVP with reusable templates, a quality checklist, and a demonstration research brief. The demo is a framework example—not live vendor research or client work.
+> **Status:** Usable MVP with reusable templates, a quality checklist, a framework example, and a source-backed CRM comparison demonstration.
 
 ## Start here
 
@@ -11,7 +11,11 @@ A practical toolkit for source-based research, competitor comparisons, and conci
 3. Compare options with the [competitor comparison CSV](templates/competitor-comparison-template.csv).
 4. Prepare a decision-maker version with the [executive summary template](templates/executive-summary-template.md).
 5. Review the [quality checklist](checklists/quality-review.md).
-6. See the [sample CRM evaluation brief](examples/research-brief/sample-crm-evaluation-brief.md).
+
+## Portfolio examples
+
+- [CRM evaluation framework](examples/research-brief/sample-crm-evaluation-brief.md) — reusable decision criteria; no vendor ranking claimed.
+- [Free CRM options for a small team](examples/research-brief/free-crm-options-small-team.md) — limited comparison based on official vendor pages, with a [matching source log](examples/research-brief/free-crm-source-log.csv).
 
 ## Deliverables this toolkit supports
 
@@ -31,16 +35,10 @@ A practical toolkit for source-based research, competitor comparisons, and conci
 - Label portfolio demonstrations honestly and protect confidential information.
 - Treat AI-generated summaries as drafts that require checking.
 
-## Repository structure
-
-- `templates/` — research brief, source log, comparison worksheet, executive summary
-- `examples/research-brief/` — demonstration CRM evaluation brief
-- `checklists/` — final quality review
-
 ## Current limitations
 
-The sample CRM brief is a decision framework, not a current, sourced vendor ranking. For client work, research questions, sources, dates, comparison criteria, and findings must be completed and verified for the assignment. The CSV comparison worksheet is a starter template; complete and verify its scores before using them for a decision. This repository is a deliverables toolkit, not automated research software.
+The CRM comparison uses official vendor pages only, not independent tests or hands-on product trials. Product limits and prices can change, so the brief records its access date and advises reconfirming details. The CSV comparison worksheet is a starter template; complete and verify scores before using them for a decision. This repository is a deliverables toolkit, not automated research software.
 
 ## Next priority
 
-Create one complete, source-backed research example and a polished sample comparison spreadsheet.
+Create a polished comparison spreadsheet and a finished executive-summary sample, then package the deliverables for client-facing portfolio use.
