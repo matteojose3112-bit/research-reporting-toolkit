@@ -1,64 +1,39 @@
 # Roadmap
 
-This roadmap takes the project from an empty repository to a credible, portfolio-ready set of research and document-summary samples. Status reflects work actually completed in the repository.
+Status reflects files actually present in the repository. The goal is to make a useful, honest portfolio sample quickly, then improve it with evidence-backed examples.
 
-## Phase 1 — Foundation
+## Phase 1 — Foundation and reusable workflow
+- [x] Create repository, README, changelog, and roadmap.
+- [x] Add research brief template.
+- [x] Add source log CSV template.
+- [x] Add executive summary template.
+- [x] Add quality-review checklist.
+- [x] Add a demonstration CRM evaluation framework.
+- [x] Clearly label the demo's scope and limitations.
 
-- [x] Create the repository and initial README.
-- [x] Document scope, principles, planned structure, and current limitations.
-- [x] Add a changelog and roadmap.
-- [ ] Add reusable templates for research briefs, source tracking, and executive summaries.
-- [ ] Add a quality-review checklist.
+## Phase 2 — Evidence-backed research sample
+- [ ] Choose a narrow business question with accessible, credible sources.
+- [ ] Gather and log current sources, preferring primary sources where practical.
+- [ ] Write findings with source IDs and citations.
+- [ ] Separate evidence, interpretation, and recommendations.
+- [ ] Verify every material claim and link.
 
-## Phase 2 — Research brief
+**Completion standard:** A reader can follow the sources, understand the findings, and see the limitations.
 
-- [ ] Choose a narrow, practical business research question.
-- [ ] Gather a balanced set of credible, accessible sources.
-- [ ] Create a source log with titles, links, publishers, dates, and relevance notes.
-- [ ] Write a concise research brief with citations and clearly stated limitations.
-- [ ] Verify that cited sources support the claims made.
+## Phase 3 — Competitor comparison deliverable
+- [ ] Create an XLSX comparison sheet with consistent criteria and source links.
+- [ ] Add transparent scoring and formulas that can be checked.
+- [ ] Mark missing information as unknown rather than guessing.
+- [ ] Add a sample decision summary based on the completed comparison.
 
-**Completion standard:** A reader can follow the sources, understand the main findings, and distinguish evidence from interpretation.
-
-## Phase 3 — Competitor comparison
-
-- [ ] Select a small set of real products or services with public information.
-- [ ] Define fair comparison criteria before collecting data.
-- [ ] Build a spreadsheet with source links and an “unknown/not disclosed” option.
-- [ ] Summarize meaningful differences without unsupported rankings.
-- [ ] Check formulas, dates, and consistency.
-
-**Completion standard:** The comparison is easy to scan, traceable to sources, and transparent about gaps.
-
-## Phase 4 — Document summary
-
-- [ ] Select a public report or other document that can be used appropriately.
-- [ ] Create a short executive summary for a defined audience.
-- [ ] Capture key findings, implications, and possible next steps.
-- [ ] Include the original source and preserve important caveats.
-- [ ] Compare the summary against the original to reduce omissions and distortion.
-
-**Completion standard:** The summary is materially shorter than the source while retaining its central meaning and limitations.
-
-## Phase 5 — Quality and presentation
-
-- [ ] Review every factual claim and source link.
-- [ ] Check spelling, structure, tables, formatting, and accessibility.
-- [ ] Label all portfolio examples as demonstrations, not client work.
-- [ ] Add previews or sample excerpts to the README.
-- [ ] Review the repository as if a prospective client were evaluating it.
-
-## Phase 6 — Portfolio readiness
-
-- [ ] Ensure each example has a clear problem statement, process, and finished output.
-- [ ] Explain what is included and what is outside the scope of each sample.
-- [ ] Remove broken links, placeholders, and unsupported claims.
-- [ ] Update the README and changelog to reflect the actual contents.
-- [ ] Publish a first milestone only when the examples are complete and reviewed.
+## Phase 4 — Portfolio-ready package
+- [ ] Add a completed executive-summary example.
+- [ ] Export a sample brief to a polished client-ready format.
+- [ ] Review all files for consistency, readability, and broken links.
+- [ ] Add clear sample outputs to the README.
 
 ## Scope guardrails
-
-- Prioritize useful deliverables over building unnecessary software.
-- Do not claim automation, research results, client experience, or measurable impact unless demonstrated and verifiable.
-- Use public, licensed, or otherwise permitted materials; respect copyright and confidentiality.
-- Treat AI-generated summaries as drafts that require source checking and human review.
+- Prioritize useful deliverables over unnecessary software.
+- Do not claim research results, client work, automation, or measurable impact unless demonstrated.
+- Use public, licensed, or otherwise permitted materials.
+- Keep source dates and limitations visible.
