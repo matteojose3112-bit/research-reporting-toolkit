@@ -1,77 +1,51 @@
 # Research & Reporting Toolkit
 
-A portfolio project for clear, source-based research and useful business document summaries.
+A practical, deliverable-focused toolkit for source-based research, competitor comparisons, and concise business summaries.
 
-## Project status
+> **Status:** First usable MVP. Includes reusable templates, a quality checklist, and a demonstration research brief. The demo is a framework example—not live vendor research or client work.
 
-**Stage:** Foundation and planning
+## Start here
 
-This repository is being built from scratch. The example deliverables listed below are planned, not completed client work. As the project develops, finished samples will be added here and clearly labeled as demonstrations.
+1. Copy the [research brief template](templates/research-brief-template.md).
+2. Track every source in the [source log CSV](templates/source-log-template.csv).
+3. Use the [executive summary template](templates/executive-summary-template.md) when a decision-maker needs the short version.
+4. Review finished work with the [quality checklist](checklists/quality-review.md).
+5. See the [sample CRM evaluation brief](examples/research-brief/sample-crm-evaluation-brief.md) for a worked framework.
 
-## What this project aims to demonstrate
+## Deliverables this toolkit supports
 
-- Finding and evaluating credible sources
-- Summarizing long documents into clear, decision-ready takeaways
-- Organizing findings and source links so claims can be checked
-- Comparing competitors, products, services, or market options
-- Presenting findings in concise, professional formats
-- Separating verified facts, interpretation, and recommendations
+- Focused research briefs with traceable claims
+- Document and report summaries
+- Competitor or service comparisons
+- Source logs and evidence tracking
+- Executive summaries and action lists
+- Quality review before delivery
 
-## Planned portfolio deliverables
-
-| Deliverable | Purpose | Status |
-| --- | --- | --- |
-| Research brief | Answer a focused business question using cited sources | Planned |
-| Source log | Track sources, dates, links, and the claims they support | Planned |
-| Competitor comparison | Compare options against consistent criteria | Planned |
-| Executive summary | Turn a longer document into key points and actions | Planned |
-| Quality checklist | Check accuracy, traceability, clarity, and formatting | Planned |
+Depending on the project, deliverables can be prepared as Markdown, DOCX, PDF, CSV, or XLSX files.
 
 ## Working principles
 
-1. **Traceable claims:** Important factual claims should link to their sources.
-2. **Source quality:** Prefer primary and authoritative sources when available; note limitations.
-3. **Clear uncertainty:** Distinguish facts from estimates, assumptions, and opinions.
-4. **Useful summaries:** Prioritize what the reader needs to know and what they can do next.
-5. **Honest presentation:** Demo work is labeled as a sample; no invented clients, results, or credentials.
-6. **Privacy:** Do not publish confidential client information or personal data.
+- Cite material factual claims and keep a source log.
+- Prefer primary and authoritative sources where practical.
+- Separate verified facts, assumptions, interpretation, and recommendations.
+- Mark unknown or undisclosed information instead of guessing.
+- Label portfolio demonstrations honestly and protect confidential information.
+- Treat AI-generated summaries as drafts that require checking.
 
-## Planned repository structure
+## Repository structure
 
-```text
-research-reporting-toolkit/
-├── README.md
-├── CHANGELOG.md
-├── ROADMAP.md
-├── templates/
-│   ├── research-brief-template.md
-│   ├── source-log-template.csv
-│   └── executive-summary-template.md
-├── examples/
-│   ├── research-brief/
-│   ├── competitor-comparison/
-│   └── document-summary/
-└── checklists/
-    └── quality-review.md
-```
-
-Folders and example files will be added as they are created.
-
-## Intended formats
-
-Depending on the assignment, deliverables may include Markdown, PDF, DOCX, or XLSX files. The format will be chosen to suit the reader and the task.
-
-## How work will be approached
-
-1. Clarify the research question, audience, scope, and deadline.
-2. Identify and assess relevant sources.
-3. Record sources and connect them to findings.
-4. Synthesize the evidence into a structured draft.
-5. Verify key claims, caveats, links, and calculations.
-6. Edit for readability and deliver in the agreed format.
+- `templates/` — research brief, source log, and executive summary
+- `examples/research-brief/` — demonstration CRM evaluation brief
+- `checklists/` — final quality review
+- `ROADMAP.md` — next improvements
+- `CHANGELOG.md` — project history
 
 ## Current limitations
 
-This repository currently contains project documentation only. It does not yet include completed research samples, automated research software, or verified client case studies.
+The sample CRM brief is a decision framework and does not contain a current, sourced vendor ranking. For client work, the research question, sources, dates, comparison criteria, and findings must be completed and verified for the specific assignment. This repository is a workflow and deliverables toolkit, not automated research software.
 
-See [ROADMAP.md](ROADMAP.md) for planned next steps and [CHANGELOG.md](CHANGELOG.md) for recorded changes.
+## Planned next
+
+- Add a complete source-backed example using current public sources.
+- Add a competitor comparison spreadsheet with formulas and evidence fields.
+- Add a polished executive-summary sample and export-ready deliverables.
