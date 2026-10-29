@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 — Portfolio deliverables and launch preparation
+- Prepared a polished PDF and editable DOCX version of the source-backed free CRM comparison.
+- Prepared an XLSX comparison workbook with a dedicated source-log sheet.
+- Updated README and roadmap to distinguish completed sample exports from remaining launch tasks.
+- Clarified that these are portfolio demonstrations based on official vendor pages, not paid client work or independent hands-on tests.
+- Kept pre-publication source refresh, a document-summary sample, and marketplace publishing on the roadmap.
+
 ## 0.4.0 — Functional research toolkit
 - Added a Python utility to audit source-log and competitor-comparison CSV files.
 - Added unit tests and a GitHub Actions test workflow.
