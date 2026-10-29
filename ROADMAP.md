@@ -1,12 +1,13 @@
 # Roadmap
 
-Status reflects files actually present in the repository. The goal is to make a useful, honest portfolio sample quickly, then improve it with evidence-backed examples.
+Status reflects files actually present in the repository. The goal is to create useful portfolio deliverables quickly, then improve them with evidence-backed examples.
 
 ## Phase 1 — Foundation and reusable workflow
 - [x] Create repository, README, changelog, and roadmap.
 - [x] Add research brief template.
 - [x] Add source log CSV template.
 - [x] Add executive summary template.
+- [x] Add competitor comparison CSV worksheet.
 - [x] Add quality-review checklist.
 - [x] Add a demonstration CRM evaluation framework.
 - [x] Clearly label the demo's scope and limitations.
@@ -21,7 +22,7 @@ Status reflects files actually present in the repository. The goal is to make a 
 **Completion standard:** A reader can follow the sources, understand the findings, and see the limitations.
 
 ## Phase 3 — Competitor comparison deliverable
-- [ ] Create an XLSX comparison sheet with consistent criteria and source links.
+- [ ] Populate a comparison spreadsheet using verified source data.
 - [ ] Add transparent scoring and formulas that can be checked.
 - [ ] Mark missing information as unknown rather than guessing.
 - [ ] Add a sample decision summary based on the completed comparison.
