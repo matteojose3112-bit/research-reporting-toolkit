@@ -9,29 +9,25 @@ Status reflects files actually present in the repository. The goal is to create 
 - [x] Add executive summary template.
 - [x] Add competitor comparison CSV worksheet.
 - [x] Add quality-review checklist.
-- [x] Add a demonstration CRM evaluation framework.
+- [x] Add demonstration CRM evaluation framework.
 - [x] Clearly label the demo's scope and limitations.
 
 ## Phase 2 — Evidence-backed research sample
-- [ ] Choose a narrow business question with accessible, credible sources.
-- [ ] Gather and log current sources, preferring primary sources where practical.
-- [ ] Write findings with source IDs and citations.
-- [ ] Separate evidence, interpretation, and recommendations.
-- [ ] Verify every material claim and link.
+- [x] Choose a focused question about free CRM options for a small team.
+- [x] Use official vendor pages as primary sources.
+- [x] Record source URLs and access date in a source log.
+- [x] Write a limited comparison with source-linked claims.
+- [x] Separate published vendor statements from analysis and recommendations.
+- [x] State that the comparison is not an independent hands-on test.
 
 **Completion standard:** A reader can follow the sources, understand the findings, and see the limitations.
 
-## Phase 3 — Competitor comparison deliverable
-- [ ] Populate a comparison spreadsheet using verified source data.
+## Phase 3 — Stronger client deliverables
+- [ ] Populate an XLSX comparison spreadsheet using verified source data.
 - [ ] Add transparent scoring and formulas that can be checked.
-- [ ] Mark missing information as unknown rather than guessing.
-- [ ] Add a sample decision summary based on the completed comparison.
-
-## Phase 4 — Portfolio-ready package
-- [ ] Add a completed executive-summary example.
+- [ ] Add a polished executive-summary example.
 - [ ] Export a sample brief to a polished client-ready format.
 - [ ] Review all files for consistency, readability, and broken links.
-- [ ] Add clear sample outputs to the README.
 
 ## Scope guardrails
 - Prioritize useful deliverables over unnecessary software.
