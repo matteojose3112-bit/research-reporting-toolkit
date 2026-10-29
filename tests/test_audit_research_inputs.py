@@ -22,7 +22,7 @@ class ResearchAuditTests(unittest.TestCase):
         self.assertTrue(any("absolute http(s)" in e for e in errors))
 
     def test_weight_warning_for_incomplete_weights(self):
-        path = self.write("option_name,criterion,weight_percent,score_1_to_5,evidence_summary,source_ids\nTool A,Cost,20,,,,\n")
+        path = self.write("option_name,criterion,weight_percent,score_1_to_5,evidence_summary,source_ids\nTool A,Cost,20,,,\n")
         _, warnings = audit_comparison(path)
         self.assertTrue(any("not 100%" in w for w in warnings))
 
