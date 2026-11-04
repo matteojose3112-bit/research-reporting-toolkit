@@ -32,3 +32,11 @@
 - Use public, licensed, or otherwise permitted materials.
 - Keep source dates and limitations visible.
 - Scoring requires agreed criteria and verifiable evidence; do not fill unknowns with guesses.
+
+---
+
+Review date: 2026-11-03
+
+## Current direction — 2026-11-03
+
+**Usable service MVP · Portfolio launch preparation.** Highest-value next steps: create a complete document-summary sample, refresh every cited vendor source and plan detail immediately before publishing, finalize marketplace scope/pricing/revisions/turnaround, then publish the prepared service listings and sample previews. The CSV audit remains a structural check, not source verification. Avoid adding software features unless they improve a real client deliverable.
