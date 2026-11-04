@@ -23,3 +23,9 @@
 
 ## 0.2.0 — Reusable workflow foundation
 - Added research brief and executive summary templates, a source-log template, a quality-review checklist, and a CRM evaluation framework demonstration.
+
+## 0.6.0 — Documentation synchronization — 2026-11-03
+
+- Refreshed README and roadmap to reflect the current usable service MVP and prepared PDF/DOCX/XLSX sample exports.
+- Reconfirmed that the Python audit validates input structure, not factual claims or source reliability.
+- Clarified the remaining document-summary sample, pre-publication source refresh, and marketplace launch tasks.
