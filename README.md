@@ -50,3 +50,7 @@ The CRM comparison uses official vendor pages only, not independent tests or han
 ## Quality checks
 
 Automated tests run through GitHub Actions on pushes and pull requests. See the [test workflow](.github/workflows/test.yml).
+
+## Documentation review — 2026-11-03
+
+Documentation review — 2026-11-03: The usable service MVP includes reusable research templates, a source-backed free-CRM comparison and source log, a Python input-audit utility, tests, and prepared PDF/DOCX/XLSX portfolio exports. The audit checks structure, not factual truth. A complete document-summary sample, pre-publication source refresh, and marketplace publication remain open.
